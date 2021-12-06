@@ -1,1 +1,21 @@
-/* Write your CSS here! */
+body {
+    width: auto;
+    margin: 8px;
+    display: block;
+    background-color: gainsboro;
+}
+
+header {
+    padding: 1.875em;
+}
+
+#mainHeading {
+    color: red;
+}
+
+#mainFooter {
+    color: steelblue;
+}
+.funParagraph {
+    color: green;
+}
